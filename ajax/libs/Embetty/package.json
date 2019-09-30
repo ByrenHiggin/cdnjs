@@ -1,0 +1,25 @@
+{
+  "name": "Embetty",
+  "version": "1.2.0",
+  "license": "MIT",
+  "author": {
+    "name": "Philipp Busse",
+    "email": "pmb@heise.de"
+  },
+  "bugs": "https://github.com/heiseonline/embetty/issues",
+  "homepage": "https://github.com/heiseonline/embetty",
+  "npmName": "@heise/embetty",
+  "npmFileMap": [
+    {
+      "basePath": "@heise/embetty/dist",
+      "files": [
+        "/*.js"
+      ]
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heiseonline/embetty"
+  },
+
+}
