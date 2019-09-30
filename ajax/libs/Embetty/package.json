@@ -11,9 +11,9 @@
   "npmName": "@heise/embetty",
   "npmFileMap": [
     {
-      "basePath": "lib",
+      "basePath": "@heise/embetty/dist",
       "files": [
-        "**/*"
+        "/*.js"
       ]
     }
   ],
