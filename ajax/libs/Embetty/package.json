@@ -13,13 +13,13 @@
     "embed"
   ],
   "homepage": "https://heiseonline.github.io/embetty/",
-  "filename": "embetty.min.js",
+  "filename": "embetty.js",
   "npmName": "@heise/embetty",
   "npmFileMap": [
     {
-      "basePath": "@heise/embetty/dist",
+      "basePath": "dist",
       "files": [
-        "*/.js"
+        "*.js"
       ]
     }
   ],
